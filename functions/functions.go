@@ -24,4 +24,7 @@ func main() {
     
     fmt.Println(addCondense(2, 2))
     fmt.Println(subCondense(100, 10))
+    
+    a, b := swap("hello", "world")
+    fmt.Println(a, b)
 }
