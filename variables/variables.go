@@ -18,4 +18,5 @@ func main() {
     fmt.Println(n, m, k)
     
     displayTypes()
+    convertTypes()
 }
