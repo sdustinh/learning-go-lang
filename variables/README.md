@@ -8,3 +8,4 @@
 
 - Declare a list of variables
 - Declare a list of variables that have been initialized
+- Short variable declarations with `:=`
