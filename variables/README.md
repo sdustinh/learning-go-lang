@@ -7,3 +7,4 @@
 ## What I learned
 
 - Declare a list of variables
+- Declare a list of variables that have been initialized
