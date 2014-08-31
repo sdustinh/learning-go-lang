@@ -1,4 +1,4 @@
-package main
+package functions
 
 func addCondense(x, y int) int {
     return x + y
