@@ -16,4 +16,6 @@ func main() {
     var n, m int = 1, 2
     k := 3
     fmt.Println(n, m, k)
+    
+    displayTypes()
 }
